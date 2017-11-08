@@ -1,3 +1,4 @@
+'use strict'
 // try to find the most reasonable prefix to use
 
 module.exports = findPrefix
