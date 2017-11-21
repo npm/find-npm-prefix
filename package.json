@@ -1,6 +1,6 @@
 {
   "name": "find-npm-prefix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find the npm project directory associated with for a given directory",
   "main": "find-prefix.js",
   "scripts": {
