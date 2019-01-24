@@ -10,9 +10,9 @@
   "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
   "license": "ISC",
   "devDependencies": {
-    "require-inject": "^1.4.2",
+    "require-inject": "^1.4.4",
     "standard": "^10.0.3",
-    "tap": "^10.7.3"
+    "tap": "^12.4.0"
   },
   "directories": {
     "test": "test"
