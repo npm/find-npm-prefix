@@ -7,7 +7,7 @@ Find the npm project directory associated with for a given directory
 ```
 const findPrefix = require('find-npm-prefix')
 
-findPrefix(process.cwd).then(prefix => {
+findPrefix(process.cwd()).then(prefix => {
   …
 })
 ```
